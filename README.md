@@ -59,6 +59,6 @@
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CMgarciaOB&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CMgarciaOB&show_icons=true&theme=tokyonight&rank_icon=github" alt="CMgarciaOB's GitHub Stats" />
 </p>
 
