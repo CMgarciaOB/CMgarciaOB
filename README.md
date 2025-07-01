@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Carlos Mario</h1>
+<h1 align="center">Hello there, I'm Carlos Mario 🐱‍💻</h1>
 <p align="center"> Fullstack & Backend Developer | Computer Systems Engineering Student | Always learning</p>
 
 ---
