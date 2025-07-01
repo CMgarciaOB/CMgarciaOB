@@ -60,9 +60,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CMgarciaOB&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon" height="160"/>
-<img src="https://github-readme-quotes.vercel.app/api?theme=default&quote=We%20have%20to%20remember%20these%20days.%20Because%20there%27s%20no%20guarantee%20that%20they%27ll%20last%20forever!%20Enjoy%20them%20as%20long%20as%20they%20last.%20-%20Sebastian%20Vettel" />
-
-
-
+<img src="https://github-readme-quotes.vercel.app/api?theme=tokyonight&quote=We%20have%20to%20remember%20these%20days.%20Because%20there's%20no%20guarantee%20that%20they'll%20last%20forever!%20Enjoy%20them%20as%20long%20as%20they%20last.%20-%20Sebastian%20Vettel&animation=default&layout=default" />
 </p>
 
